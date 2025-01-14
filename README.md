@@ -1,41 +1,38 @@
  ## 😎 Hey! Nice to see you.
 
 Welcome to my page!
-I'm Behruz, .NET developer from Uzbekistan.
+I'm Behruz, a .Net developer from Uzbekistan.
 
-## Men Haqimda
+## About me
 
-Men web dasturlash, bulutli hisoblash va ochiq kodli loyihalarda ishtirok etishni yaxshi ko'radigan dasturchiman. Yangi texnologiyalarni o'rganishni va malakalarimni doimiy ravishda oshirishni maqsad qilganman.
+I am a programmer who loves web programming and participating in open source projects. I aim to learn new technologies and constantly improve my skills.
 
-- 🔭 Hozirda [Loyiha Nomi](loyihaga link) loyihasida ishlayapman
-- 🌱 Hozirda [Texnologiya/Malakani] o'rganmoqdaman
-- 👯 [Loyiha turi] bo'yicha hamkorlik qilishni xohlayman
-- 💬 Menga [Mutaxassislik sohalari] haqida savollar bering
-- 📫 Menga qanday bog'lanish mumkin: [Email yoki bog'lanish usuli]
-- 😄 Otlar: ular/ularni
-- ⚡ Qiziqarli fakt: [Siz haqingizda qiziqarli narsa]
+## Technologies and Tools
 
-## Texnologiyalar va Asboblar
+Below are the technologies and tools I use and have worked with:
 
-Quyida men ishlaydigan texnologiyalar va asboblar:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Statistikasi
+## GitHub Statistics
 
 ![Behruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Behruz22&show_icons=true&theme=radical)
 
-## Eng Ko'p Ishlatilgan Tillar
+## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Behruz22&layout=compact&theme=radical)
 
-## Menga Bog'laning
+## Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behruz-tuxtayev-50560b29b)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/BehruzTuxtayev)
@@ -43,5 +40,6 @@ Quyida men ishlaydigan texnologiyalar va asboblar:
 [![Mail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/CodePlayC)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWKf9wN9wMCuHYEZuk9OELg)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit)](https://www.facebook.com/profile.php?id=61552145787492)
 
-Profilimga tashrif buyurganingiz uchun rahmat! Agar loyiha ustida hamkorlik qilishni yoki shunchaki salomlashishni xohlasangiz, bemalol murojaat qiling! 😊
+ Thank you for visiting my profile! If you'd like to collaborate on a project or just say hello, feel free to reach out!😊
