@@ -1,4 +1,4 @@
-# Salom, men Behruz! 👋
+ ## 😎 Hey! Nice to see you.
 
 GitHub profilimga hush kelibsiz!
 
