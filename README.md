@@ -39,5 +39,6 @@ Quyida men ishlaydigan texnologiyalar va asboblar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behruz-tuxtayev-50560b29b)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BehruzTuxtayev)
 [![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Behruz22)
+[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 Profilimga tashrif buyurganingiz uchun rahmat! Agar loyiha ustida hamkorlik qilishni yoki shunchaki salomlashishni xohlasangiz, bemalol murojaat qiling! 😊
