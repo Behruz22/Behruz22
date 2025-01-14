@@ -42,5 +42,6 @@ Quyida men ishlaydigan texnologiyalar va asboblar:
 [![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Behruz22)
 [![Mail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/CodePlayC)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWKf9wN9wMCuHYEZuk9OELg)
 
 Profilimga tashrif buyurganingiz uchun rahmat! Agar loyiha ustida hamkorlik qilishni yoki shunchaki salomlashishni xohlasangiz, bemalol murojaat qiling! 😊
