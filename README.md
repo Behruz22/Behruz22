@@ -45,6 +45,6 @@ Below are the technologies and tools I use and have worked with:
 [![Mail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/CodePlayC)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWKf9wN9wMCuHYEZuk9OELg)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61552145787492)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61552145787492)
 
  Thank you for visiting my profile! If you'd like to collaborate on a project or just say hello, feel free to reach out!😊
