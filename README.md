@@ -1,3 +1,9 @@
+<style>
+    body {
+        background-color: #121212;
+        color: white;
+    }
+</style>
  ## 😎 Hey! Nice to see you.
 
 Welcome to my page!
