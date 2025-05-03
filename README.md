@@ -29,9 +29,6 @@ Below are the technologies and tools I use and have worked with:
 ![EFCore](https://img.shields.io/badge/EFCORE-%23FF6600.svg?&style=for-the-badge&logo=efcore&logoColor=white)
 ![Github](https://img.shields.io/badge/GITHUB-0078D4?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Statistics
-
-![Behruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Behruz22&show_icons=true&theme=radical)
 
 ## Most Used Languages
 
